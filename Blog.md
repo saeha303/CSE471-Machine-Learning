@@ -1,3 +1,5 @@
+Team members: 1905033, 1905049, 1905053
+
 **The Art of Saying No: Contextual Noncompliance in Language Models**
 
 Large language models (LLMs) like ChatGPT have achieved remarkable capabilities in generating coherent, contextually appropriate, and often astonishingly human-like responses. Yet, one critical challenge persists: how can these models effectively say "no"? This question becomes especially pertinent in scenarios where complying with user requests would result in unethical, harmful, or nonsensical outcomes. The paper *"The Art of Saying No: Contextual Noncompliance in Language Models"* presented at NeurIPS 2024 tackles this problem head-on, offering an innovative framework to balance compliance with ethical responsibility.
